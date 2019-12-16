@@ -7,7 +7,7 @@ const int led5 = 10;         // donar nom al pin 10 de l’Arduino
 const int led6 = 11;         // donar nom al pin 11 de l’Arduino
 const int led7 = 12;         // donar nom al pin 12 de l’Arduino
 
-//********** Setup ****************************************************************
+//********** Setup ********************************************************hkj,********
 void setup()
 {
   pinMode(led0, OUTPUT);     // definir el pin 5 com una sortida
